@@ -7,7 +7,7 @@
 ########
 # create an array with some colours in it
 colours=("red" "green" "blue" "yellow")
-
+#Hi mom
 # create a hash of animals which relates to the colours array values
 declare -A animals
 animals=(["red"]="cardinal" ["blue"]="lobster" ["green"]="frog" ["yellow"]="canary")
